@@ -1,0 +1,2 @@
+[34m2020-05-22 05:57:07.754 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 001[0m Using default escc
+[34m2020-05-22 05:57:07.754 UTC [chaincodeCmd] checkChaincodeCmdParams -> INFO 002[0m Using default vscc

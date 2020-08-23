@@ -1,0 +1,2 @@
+[34m2020-05-22 05:57:05.635 UTC [channelCmd] InitCmdFactory -> INFO 001[0m Endorser and orderer connections initialized
+[34m2020-05-22 05:57:05.705 UTC [cli.common] readBlock -> INFO 002[0m Received block: 0
